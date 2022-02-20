@@ -10,7 +10,7 @@
 -  **Languages :** Python
 -  **Hobbies :** Football:football: & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart:
--  **Contact me :** [Ankit](ankitchaudhary272001@gmail.com)
+-  **Contact me :** [Ankit](https://www.linkedin.com/in/ankitkumar-chaudhary-b51012186/)
 
 
 ### Languages and Tools
