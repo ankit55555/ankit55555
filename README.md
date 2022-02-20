@@ -1,16 +1,16 @@
 👋 Hi, I'm Ankit,a passionate IT Engineer🚀. 
 
-[![Ankit's github stats]](https://github.com/ankit55555)
+[[Ankit's github stats]](https://github.com/ankit55555)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ### About
 
--  **Learning :** Full-Stack Development :zap: | Open-Source :fire:    
--  **Languages :** PHP, Go, JavaScript
--  **Hobbies :** Basketball :basketball: & Music :headphones:
+-  **Learning :** Javascript,Data analysis  
+-  **Languages :** Python
+-  **Hobbies :** Football:football: & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart:
--  **Contact me :** [WangNingkai](mailto:i@ningkai.wang)
+-  **Contact me :** [Ankit](ankitchaudhary272001@gmail.com)
 
 
 ### Languages and Tools
