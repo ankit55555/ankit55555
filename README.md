@@ -7,8 +7,8 @@
 ### About
 
 -  **Learning :** Javascript,Data analysis  
--  **Languages :** Python
--  **Hobbies :** Football:football: & Music :headphones:
+-  **Languages :** Python,C
+-  **Hobbies :** Football:football: & Analytics:
 -  **Fact :** First solve the problem, then write the code :heart:
 -  **Contact me :** [Ankit](https://www.linkedin.com/in/ankitkumar-chaudhary-b51012186/)
 
