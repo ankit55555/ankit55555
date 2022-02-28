@@ -6,8 +6,9 @@
 
 ### About
 
--  **Learning :** Javascript,Data analysis  
+-  **Learning :** Javascript  
 -  **Languages :** Python,C
+-  **Technologies :** Data Science, Shopify
 -  **Hobbies :** Football:football: & Analytics:
 -  **Fact :** First solve the problem, then write the code :heart:
 -  **Contact me :** [Ankit](https://www.linkedin.com/in/ankitkumar-chaudhary-b51012186/)
