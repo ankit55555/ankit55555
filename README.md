@@ -7,7 +7,7 @@
 ### About
 
 -  **Learning :** Javascript  
--  **Languages :** Python,C
+-  **Languages :** Python,C,golang
 -  **Technologies :** Data Science, Shopify ,Web development
 -  **Hobbies :** Football:football: & Analytics:
 -  **Fact :** First solve the problem, then write the code :heart:
