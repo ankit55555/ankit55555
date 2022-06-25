@@ -1,4 +1,4 @@
-👋 Hi, I'm Ankit,a passionate IT Engineer🚀. 
+Myself Ankit 👋 ,a self-motivated graduate seeking an opportunity to work in a challenging environment to prove my skills and utilize my knowledge of various technologies for the growth of the organization.🚀. 
 
 [[Ankit's github stats]](https://github.com/ankit55555)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
