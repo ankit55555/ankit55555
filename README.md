@@ -6,11 +6,11 @@
 
 ### About
 
--  **Learning :** Javascript  
+-  **Learning :** Javascript ,React 
 -  **Languages :** Python,C,golang
--  **Technologies :** Data Science, Shopify ,Web development
--  **Hobbies :** Football:football: & Analytics:
--  **Fact :** First solve the problem, then write the code :heart:
+-  **Technologies :** ,Web development, Data Science, Shopify
+-  **Hobbies :** Football and Analysis.
+-  **Fact :** Everythig goals are personal so do it:
 -  **Contact me :** [Ankit](https://www.linkedin.com/in/ankitkumar-chaudhary-b51012186/)
 
 
@@ -24,7 +24,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics//react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
