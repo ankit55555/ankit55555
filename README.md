@@ -6,9 +6,9 @@ Myself Ankit 👋 ,a self-motivated graduate seeking an opportunity to work in a
 
 ### About
 
--  **Learning :** Javascript ,React 
+-  **Learning :** Javascript / React
 -  **Languages :** Python,C,golang
--  **Technologies :** Web development, Data Science, Shopify
+-  **Technologies :** Web development , Shopify , Analytics
 -  **Hobbies :** Football and Analysis.
 -  **Fact :**  goals are personal so do it :):
 -  **Contact me :** [Ankit](https://www.linkedin.com/in/ankitkumar-chaudhary-b51012186/)
