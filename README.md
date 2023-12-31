@@ -1,4 +1,4 @@
-Hello Myseld Ankit! 👋 I'm a highly motivated front-end developer with two years of experience, eager to contribute my skills and knowledge in a dynamic work environment. I'm seeking opportunities that allow me to showcase my expertise in technologies like Shopify, Tailwind CSS, React, and other web development frameworks. I'm confident in my ability to drive organizational growth through my proficiency in software development, SEO strategies, and effective troubleshooting. Let's build something amazing together! 🚀
+Hello Myself Ankit! 👋 I'm a highly motivated front-end developer with two years of experience, eager to contribute my skills and knowledge in a dynamic work environment. I'm seeking opportunities that allow me to showcase my expertise in technologies like Shopify, Tailwind CSS, React, and other web development frameworks. I'm confident in my ability to drive organizational growth through my proficiency in software development, SEO strategies, and effective troubleshooting. Let's build something amazing together! 🚀
 
 
 [[Ankit's github stats]](https://github.com/ankit55555)
