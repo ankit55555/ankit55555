@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working in [dear digital](https://www.deardigital.com/) as a developer.
 
-- 🌱 I’m currently learning **React**
-
 - 💬 Ask me about ** Web Development · User Experience (UX) · Responsive Web Design · GitHub · Shopify · E-Commerce · seo **
 
 - 📫 How to reach me **ankitchaudhary272001@gmail.com || https://www.linkedin.com/in/ankit-chaudhary-b51012186**
