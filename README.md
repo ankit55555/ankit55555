@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dishant-62&label=Profile%20views&color=0e75b6&style=flat" alt="dishant-62" /> </p>
 
-- 🔭 I’m currently working in [dear digital](https://www.deardigital.com/) as a developer.
+- 🔭 I’m currently working at Tenovia(http://www.tenovia.com) as a Senior Full stack developer.
 
 - 💬 Ask me about ** Web Development · User Experience (UX) · Responsive Web Design · GitHub · Shopify · E-Commerce · seo **
 
