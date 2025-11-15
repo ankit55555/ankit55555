@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working at Tenovia(http://www.tenovia.com) as a Senior Full stack developer.
 
-- 💬 Ask me about ** Web Development · User Experience (UX) · Responsive Web Design · GitHub · Shopify · E-Commerce · seo **
+- 💬 Ask me about ** Web Development · User Experience (UX) · Responsive Web Design · GitHub · Shopify · Custom Apps · React · E-Commerce · seo **
 
 - 📫 How to reach me **ankitchaudhary272001@gmail.com || https://www.linkedin.com/in/ankit-chaudhary-b51012186**
 
