@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Shopify Developer | Full Stack Developer | E-commerce Specialist</h3>
 
 <p align="center">
-  <a href="https://ankits-portfolio.vercel.app/">🌐 Portfolio</a> •
+  <a href="https://ankitkumar-chaudhary.vercel.app/">🌐 Portfolio</a> •
   <a href="https://www.linkedin.com/in/ankit-chaudhary-b51012186">LinkedIn</a> •
   <a href="mailto:ankitchaudhary272001@gmail.com">Email</a>
 </p>
