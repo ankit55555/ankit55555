@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <a href="ankitkumar-chaudhary.vercel.app" target="_blank">
+  <a href="https://ankits-portfolio.vercel.app/" target="_blank">
     🌐 Portfolio
   </a>
   •
@@ -98,16 +98,6 @@ src="https://user-images.githubusercontent.com/74038190/212744275-2d6ec7b6-7e10-
 
 ### 🌐 Portfolio Website
 🔗 https://ankits-portfolio.vercel.app/
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ankit55555&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit55555&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
