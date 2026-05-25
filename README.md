@@ -1,85 +1,130 @@
 <h1 align="center">Hi 👋, I'm Ankit Chaudhary</h1>
-<h3 align="center">🚀 Shopify Developer | Full Stack Developer | E-commerce Specialist</h3>
+
+<h3 align="center">
+🚀 Shopify Developer • Full Stack Developer • E-commerce Specialist
+</h3>
 
 <p align="center">
-  <a href="https://ankitkumar-chaudhary.vercel.app/">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/ankit-chaudhary-b51012186">LinkedIn</a> •
-  <a href="mailto:ankitchaudhary272001@gmail.com">Email</a>
+  <a href="ankitkumar-chaudhary.vercel.app" target="_blank">
+    🌐 Portfolio
+  </a>
+  •
+  <a href="https://www.linkedin.com/in/ankit-chaudhary-b51012186" target="_blank">
+    LinkedIn
+  </a>
+  •
+  <a href="mailto:ankitchaudhary272001@gmail.com">
+    Email
+  </a>
 </p>
 
-<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+---
+
+<img align="right" alt="Coding" width="350"
+src="https://user-images.githubusercontent.com/74038190/212744275-2d6ec7b6-7e10-4c88-95d9-7b7d3c3b3e46.gif"/>
+
+## 👨‍💻 About Me
+
+- 💼 Senior Full Stack Developer at **Tenovia**
+- 🛍️ Specialized in **Shopify Development & E-commerce Solutions**
+- ⚛️ Experienced in **React, Node.js, Shopify Apps & Custom Themes**
+- 🚀 Passionate about **Performance, UX & SEO Optimization**
+- 🧠 Love building **Scalable Web Applications**
+- 📈 Helping brands grow through **High-Converting E-commerce Experiences**
 
 ---
 
-### 👨‍💻 About Me
+## 💬 Ask Me About
 
-- 💼 **Senior Full Stack Developer at Tenovia**  
-- 🛍️ Specialized in **Shopify Development & E-commerce Solutions**  
-- ⚡ Experienced in **React, Node.js, Shopify Apps & Store Customization**  
-- 🧠 Passionate about **building scalable web applications**  
-- 🚀 Love improving **UX, performance & SEO**
-
----
-
-### 💬 Ask Me About
-
-- Shopify Store Development  
-- Shopify App Development  
-- React & JavaScript  
-- E-commerce Optimization  
-- SEO & Performance  
+- Shopify Store Development
+- Shopify App Development
+- React & JavaScript
+- Node.js APIs
+- SEO & Core Web Vitals
+- E-commerce Optimization
 - Responsive Web Development
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/ankit-chaudhary-b51012186/" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
+
 <a href="mailto:ankitchaudhary272001@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40" />
+<img src="https://skillicons.dev/icons?i=gmail" height="45" />
 </a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,mysql,python,tailwind,bootstrap,git,github" />
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
 </p>
 
----
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,python" />
+</p>
 
-### 🛒 E-commerce & CMS
+### Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase" />
+</p>
 
-<p align="left">
+### E-commerce
+<p>
 <img src="https://skillicons.dev/icons?i=shopify" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Featured Projects
+
+### 🛒 Shopify Instagram Feed App
+- Built using **Gadget + Shopify**
+- Integrated Instagram feeds directly into Shopify stores
+- Customizable storefront feed rendering
+
+### ⚡ Shopify Custom Store Development
+- Developed scalable Shopify storefronts
+- Performance optimization & SEO enhancements
+- Custom Liquid sections & app integrations
+
+### 🌐 Portfolio Website
+🔗 https://ankits-portfolio.vercel.app/
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ankit55555&show_icons=true&theme=tokyonight" />
-</p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ankit55555&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit55555&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit55555&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🚀 Portfolio
+## 🏆 GitHub Trophies
 
-🌐 **Live Portfolio**  
-https://ankits-portfolio.vercel.app/
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ankit55555&theme=tokyonight&no-frame=true&margin-w=10" />
+</p>
 
 ---
 
-### ⚡ Fun Fact
+## ⚡ Fun Fact
 
-> I enjoy **building scalable web apps and making memes while debugging code 😄**
+> I enjoy building scalable web apps and making memes while debugging code 😄
+
+---
+
+<p align="center">
+  🚀 Always learning, building, and improving.
+</p>
