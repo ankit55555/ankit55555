@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://ankits-portfolio.vercel.app/" target="_blank">
+  <a href="https://ankitkumar-chaudhary.vercel.app/" target="_blank">
     🌐 Portfolio
   </a>
   •
