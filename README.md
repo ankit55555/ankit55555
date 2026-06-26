@@ -97,7 +97,7 @@ src="https://user-images.githubusercontent.com/74038190/212744275-2d6ec7b6-7e10-
 - Custom Liquid sections & app integrations
 
 ### 🌐 Portfolio Website
-🔗 https://ankits-portfolio.vercel.app/
+🔗 https://ankitkumar-chaudhary.vercel.app/
 
 ---
 
