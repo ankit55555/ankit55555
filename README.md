@@ -99,16 +99,6 @@ src="https://user-images.githubusercontent.com/74038190/212744275-2d6ec7b6-7e10-
 ### 🌐 Portfolio Website
 🔗 https://ankitkumar-chaudhary.vercel.app/
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ankit55555&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
-
----
-
 ## ⚡ Fun Fact
 
 > I enjoy building scalable web apps and making memes while debugging code 😄
